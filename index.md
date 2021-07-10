@@ -1,5 +1,9 @@
 
-{% include 01-title_subtitle.md %}
+{% include 00-title_subtitle.md %}
+
+<br>
+
+{% include 01-newspaper_article.md %}
 
 <br>
 
@@ -15,7 +19,15 @@
 
 <br>
 
-{% include 05-link_python_files.md %}
+{% include 05-code.md %}
+
+<br>
+
+{% include 06-other_resources.md %}
+
+<br>
+
+{% include 07-data.md %}
 
 <br>
 
