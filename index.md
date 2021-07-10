@@ -31,5 +31,6 @@
 
 <br>
 
-by =SUM(ALL)
+by **=SUM(ALL)**
+
 students at [Code Division](http://codedivision.co.uk/)
