@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Eco Equality"
+---
 
 {% include 00-title_subtitle.md %}
 
@@ -33,4 +37,4 @@
 
 by **=SUM(ALL)**
 
-students at [Code Division](http://codedivision.co.uk/)
+students at [Code Division](http://codedivision.co.uk/), 2021
