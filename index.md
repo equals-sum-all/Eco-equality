@@ -3,7 +3,7 @@ layout: default
 title: "Eco Equality"
 ---
 
-{% include 00-title_subtitle.md %}
+{% include 00-subtitle.md %}
 
 <br>
 
