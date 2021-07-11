@@ -1,2 +1,0 @@
-A comparative analysis on the ability and willingness to adapt transport mode to help the fight against climate change in the city of Edinburgh.
----
