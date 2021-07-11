@@ -4,5 +4,5 @@ A comparative analysis on the ability and willingness to adapt transport mode to
 * Market Research: consultation on the support of this project people living in Edinburgh, disgregated by city area, age and gender.
 * Just Eat Stations: from a partnership with the Edinburgh council to enhance active travel during the pandemic.
 * Scottish Deprivation Index across the different areas in Edinburgh.
-* 
+
 ---
