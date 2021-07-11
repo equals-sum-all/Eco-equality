@@ -35,6 +35,8 @@ title: "Eco Equality"
 
 <br>
 
-by **=SUM(ALL)**
+by 
+
+![image](logo.png)
 
 students at [Code Division](http://codedivision.co.uk/), 2021
