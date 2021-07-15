@@ -11,15 +11,14 @@ title: "Eco Equality"
 
 <br>
 
-{% include 02-image.md %}
+---
+{% include 02-link_tableau_repo.md %} 
+{% include 03-link_streamlite.md %}
+---
 
 <br>
 
----
-{% include 03-link_tableau_repo.md %} 
-{% include 04-link_streamlite.md %}
-
----
+{% include 04-image.md %}
 
 <br>
 
