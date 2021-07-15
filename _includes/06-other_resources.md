@@ -1,3 +1,1 @@
-[here it goes the link](https://github.com/blazaropinto/DS-2021---ENVIRONMENT-WOMEN-IN-TECH/tree/main/Resources)
-
-same as above
+....for more information click [here](https://github.com/blazaropinto/Eco-equality/tree/main/Resources)
