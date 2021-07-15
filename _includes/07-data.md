@@ -1,1 +1,1 @@
-[here it goes the link to the folder with all raw data files](https://github.com/blazaropinto/DS-2021---ENVIRONMENT-WOMEN-IN-TECH/tree/main/Data%20Sets)
+* the raw data employed can be seen and downloaded [here](https://github.com/blazaropinto/Eco-equality/tree/main/Data%20Sets), (it's all open data!)
