@@ -1,6 +1,6 @@
 # Edinburgh - Spaces for people - Market Research - Public Opinion on active travel
 
-* [origin of the data] (http://www.spokes.org.uk/documents/members-campaigning/edinburgh/edinburgh-covid-schemes/)
+* [origin of the data](http://www.spokes.org.uk/documents/members-campaigning/edinburgh/edinburgh-covid-schemes/)
 
 * [Spaces for People feedback published - Edinburgh Council](https://www.edinburgh.gov.uk/news/article/13218/spaces-for-people-feedback-published)
 
