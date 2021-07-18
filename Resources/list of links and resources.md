@@ -19,7 +19,7 @@ to help write our data story
 
 * [Council to consider Spaces for People again in June](https://theedinburghreporter.co.uk/2021/06/council-to-consider-spaces-for-people-again-in-june/)
 
-# Public domain images
+### Public domain images
 to help us ilustrate
 
 * https://www.publicdomainpictures.net/en/hledej.php?hleda=bicycle
