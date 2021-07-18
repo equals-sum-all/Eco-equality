@@ -26,11 +26,15 @@ title: "Eco Equality"
 
 <br>
 
-{% include 06-other_resources.md %}
+{% include 06-data.md %}
 
 <br>
 
-{% include 07-data.md %}
+{% include 07-other_resources.md %}
+
+<br>
+
+% include 08- possible extensions.md %}
 
 <br>
 

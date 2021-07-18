@@ -18,3 +18,8 @@ to help write our data story
 * [Thousands of Edinburgh locals oppose controversial Spaces for People project](https://www.heraldscotland.com/news/19345936.thousands-edinburgh-locals-oppose-controversial-spaces-people-project/)
 
 * [Council to consider Spaces for People again in June](https://theedinburghreporter.co.uk/2021/06/council-to-consider-spaces-for-people-again-in-june/)
+
+# Public domain images
+to help us ilustrate
+
+* https://www.publicdomainpictures.net/en/hledej.php?hleda=bicycle
