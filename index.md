@@ -34,7 +34,7 @@ title: "Eco Equality"
 
 <br>
 
-{% include 08-possible extensions.md %}
+{% include 08-possible_extensions.md %}
 
 <br>
 
