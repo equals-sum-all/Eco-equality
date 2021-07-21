@@ -23,3 +23,16 @@ to help write our data story
 to help us ilustrate
 
 * https://www.publicdomainpictures.net/en/hledej.php?hleda=bicycle
+
+# Scottish Index of Multiple Deprivation - Poverty and Green Transport
+
+* [Collection of Documents on SIMD](https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/?utm_source=redirect&utm_medium=shorturl&utm_campaign=simd)
+
+* [Interactive SIMD map](https://simd.scot/#/simd2020/BTTTFTT/9/-4.0000/55.9000/)
+
+* [Report on poverty in Edinburgh](https://www.povertyalliance.org/wp-content/uploads/2020/09/Edinburgh-Poverty-Commission-Survey-Report-Part-1-attitudinal-survey.pdf)
+
+* [Just Eat Bike Hire Scheme - Open Data](https://edinburghcyclehire.com/open-data)
+
+* [Transport.gov's appraisal on transport in Edinburgh](https://www.transport.gov.scot/media/49083/initial-appraisal-case-for-change-edinburgh-and-south-east-scotland-region-report.pdf)
+
