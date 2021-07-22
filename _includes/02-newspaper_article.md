@@ -1,1 +1,1 @@
-> Read [here](https://www.canva.com/design/DAEkoW4_9mg/PdaQyDFMVyroA2QNnr1-4Q/view#1) a summary on the closely related data story on bike usage in Edinburgh together with images and comments showing our work during this project!
+> Read [here](https://github.com/equals-sum-all/Eco-equality/blob/main/%3DSUM(all).pdf) a summary on the data story on bike usage in Edinburgh together with images and comments showing our work during this project!
