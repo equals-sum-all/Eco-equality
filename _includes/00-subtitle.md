@@ -5,4 +5,3 @@
 * Just Eat bike stations: from a partnership with the Edinburgh Council to enhance active travel during the pandemic.
 * Scottish Deprivation Index across the different areas in the city of Edinburgh.
 
----
