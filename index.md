@@ -7,13 +7,14 @@ title: "Eco Equality"
 
 <br>
 
-{% include 01-newspaper_article.md %}
-
-<br>
-
 ---
-{% include 02-link_tableau_repo.md %} 
+
+{% include 01-link_tableau_repo.md %}
+
+{% include 02-newspaper_article.md %} 
+
 {% include 03-link_streamlite.md %}
+
 ---
 
 <br>
