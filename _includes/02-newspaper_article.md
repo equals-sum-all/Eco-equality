@@ -1,1 +1,1 @@
-> Read [here](canva.com/design/DAEkoW4_9mg/PdaQyDFMVyroA2QNnr1-4Q/view#1) a summary on the closely related data story on bike usage in Edinburgh together with images and comments showing our work during this project!
+> Read [here](https://www.canva.com/design/DAEkoW4_9mg/PdaQyDFMVyroA2QNnr1-4Q/view#1) a summary on the closely related data story on bike usage in Edinburgh together with images and comments showing our work during this project!
